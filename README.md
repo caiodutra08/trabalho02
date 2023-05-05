@@ -1,3 +1,2 @@
 # trabalho02
-Realização do trabalho 2 de POO
-![DiagramaFinal drawio (1)](https://user-images.githubusercontent.com/68659835/236581461-c546d25d-4fba-47f8-939c-f4bf7d5fab6e.png)
+Realização do trabalho 2 de POO![DiagramaFinal2](https://user-images.githubusercontent.com/68659835/236581521-3dcd3ec7-c667-489b-80cb-12abea1b28c8.png)
