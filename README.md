@@ -1,3 +1,3 @@
 # trabalho02
 Realização do trabalho 2 de POO
-![diagramaTrabalho02](https://user-images.githubusercontent.com/68659835/235834918-574de98d-7a43-4e01-83fe-b7476c38fecd.png)
+![DiagramaFinal](https://user-images.githubusercontent.com/68659835/236581311-8950de06-2ead-40df-a656-f2e417788c9e.png)
